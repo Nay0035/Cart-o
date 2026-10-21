@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(104, 61, 99);
+}
+
+h1 {
+    color: rgb(170, 154, 172);
+}
+
+h2 {
+    color: rgb(232, 228, 235);
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: rgb(141, 125, 170);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    color: rgba(0, 0, 0, 0.486);
+    font-variant: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
